@@ -1,0 +1,601 @@
+.spotify-home {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    margin-left: -12px;
+    margin-top: -10px;
+   
+}
+
+.spotify-home .div {
+    background-color: #ffffff;
+    width: 1360px;
+    height: 3839px;
+    position: relative;
+}
+
+.spotify-home .overlap {
+    position: absolute;
+    width: 1360px;
+    height: 76px;
+    top: 0;
+    left: 0;
+    background-color: #0f0e0e;
+}
+.spotify-home .spot{
+    position: absolute;
+    width: 1360px;
+    height: 829px;
+    top: 2700px;
+    left: 0;
+    object-fit: cover;
+
+} 
+
+.spotify-home .spotify {
+    width: 50px;
+    height: 50px;
+    top: 15px;
+    left: 17px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.spotify-home .text-wrapper {
+    position: absolute;
+    top: 22px;
+    left: 76px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .text-wrapper-2 {
+    position: absolute;
+    top: 17px;
+    left: 751px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .text-wrapper-3 {
+    position: absolute;
+    top: 17px;
+    left: 934px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .text-wrapper-4 {
+    position: absolute;
+    top: 17px;
+    left: 1096px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .overlap-group {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 11px;
+    left: 1277px;
+    background-color: #9d8e8e;
+    border-radius: 25px;
+}
+
+.spotify-home .customer {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 5px;
+    left: 5px;
+    object-fit: cover;
+}
+
+.spotify-home .overlap-group-2 {
+    position: absolute;
+    width: 1360px;
+    height: 829px;
+    top: 76px;
+    left: 0;
+}
+
+.spotify-home .circle {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 753px;
+    left: 815px;
+    object-fit: cover;
+}
+
+.spotify-home .city-night-art {
+    position: absolute;
+    width: 1360px;
+    height: 829px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.spotify-home .img {
+    position: absolute;
+    width: 281px;
+    height: 584px;
+    top: 99px;
+    left: 153px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.spotify-home .image {
+    position: absolute;
+    width: 389px;
+    height: 715px;
+    top: 30px;
+    left: 99px;
+    object-fit: cover;
+}
+
+.spotify-home .p {
+    position: absolute;
+    width: 833px;
+    top: 226px;
+    left: 469px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .rectangle {
+    width: 302px;
+    height: 87px;
+    top: 480px;
+    left: 469px;
+    border-radius: 43.5px;
+    position: absolute;
+    background-color: #ffffff;
+}
+
+.spotify-home .text-wrapper-5 {
+    position: absolute;
+    top: 510px;
+    left: 504px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #0f0e0e;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .text-wrapper-6 {
+    position: absolute;
+    top: 959px;
+    left: 565px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .element-wrapper {
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    top: 1087px;
+    left: 70px;
+    border-radius: 110px;
+    background: linear-gradient(
+        180deg,
+        rgb(214.88, 19.15, 218.88) 0%,
+        rgba(83.76, 132.95, 228.44, 0.77) 50%,
+        rgba(35.89, 16.93, 253.94, 0.59) 100%
+    );
+}
+
+.spotify-home .element {
+    position: absolute;
+    width: 160px;
+    height: 171px;
+    top: 23px;
+    left: 30px;
+    object-fit: cover;
+}
+
+.spotify-home .lightning-wrapper {
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    top: 1086px;
+    left: 1069px;
+    border-radius: 110px;
+    background: linear-gradient(
+        180deg,
+        rgb(214.88, 19.15, 218.88) 0%,
+        rgba(83.76, 132.95, 228.44, 0.77) 50%,
+        rgba(35.89, 16.93, 253.94, 0.59) 100%
+    );
+}
+
+.spotify-home .lightning {
+    position: absolute;
+    width: 148px;
+    height: 159px;
+    top: 36px;
+    left: 36px;
+    object-fit: cover;
+}
+
+.spotify-home .heart-wrapper {
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    top: 1086px;
+    left: 736px;
+    border-radius: 110px;
+    background: linear-gradient(
+        180deg,
+        rgb(214.88, 19.15, 218.88) 0%,
+        rgba(83.76, 132.95, 228.44, 0.77) 50%,
+        rgba(35.89, 16.93, 253.94, 0.59) 100%
+    );
+}
+
+.spotify-home .heart {
+    position: absolute;
+    width: 160px;
+    height: 155px;
+    top: 33px;
+    left: 30px;
+    object-fit: cover;
+}
+
+.spotify-home .overlap-2 {
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    top: 1087px;
+    left: 403px;
+    border-radius: 110px;
+    background: linear-gradient(
+        180deg,
+        rgb(214.88, 19.15, 218.88) 0%,
+        rgba(83.76, 132.95, 228.44, 0.77) 50%,
+        rgba(35.89, 16.93, 253.94, 0.59) 100%
+    );
+}
+
+.spotify-home .rectangle-2 {
+    width: 13px;
+    height: 115px;
+    top: 53px;
+    left: 63px;
+    border-radius: 13px;
+    position: absolute;
+    background-color: #ffffff;
+}
+
+.spotify-home .rectangle-3 {
+    width: 13px;
+    height: 115px;
+    top: 53px;
+    left: 87px;
+    border-radius: 13px;
+    position: absolute;
+    background-color: #ffffff;
+}
+
+.spotify-home .rectangle-4 {
+    width: 13px;
+    height: 114px;
+    top: 52px;
+    left: 129px;
+    border-radius: 13px;
+    transform: rotate(-22.11deg);
+    position: absolute;
+    background-color: #ffffff;
+}
+
+.spotify-home .play-your-favorites {
+    position: absolute;
+    width: 325px;
+    top: 1374px;
+    left: 26px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .make-it {
+    position: absolute;
+    width: 325px;
+    top: 1374px;
+    left: 700px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .mobile-data{
+    position: absolute;
+    width: 325px;
+    top: 1374px;
+    left: 1030px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .text-wrapper-2:hover{
+    color: yellowgreen;
+}
+.spotify-home .text-wrapper-3:hover{
+    color: yellowgreen;
+}
+.spotify-home .text-wrapper-4:hover{
+    color: yellowgreen;
+}
+
+.spotify-home .span {
+    font-weight: 600;
+}
+
+.spotify-home .text-wrapper-7 {
+    font-family: "Inter-Regular", Helvetica;
+}
+
+.spotify-home .playlists-made-easy {
+    position: absolute;
+    width: 339px;
+    top: 1374px;
+    left: 372px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .it-s-free-no-credit-wrapper {
+    position: absolute;
+    width: 1359px;
+    height: 460px;
+    top: 1550px;
+    left: 0;
+    background: linear-gradient(
+        180deg,
+        rgba(115.46, 8.85, 132.81, 0.56) 0%,
+        rgba(116.91, 7.02, 129.62, 0.56) 25%,
+        rgba(117.02, 6.79, 125.38, 0.56) 50%,
+        rgba(25.5, 0, 79.69, 0.56) 75%,
+        rgba(19.23, 5.58, 103.06, 0.56) 100%
+    );
+}
+
+.spotify-home .it-s-free-no-credit {
+    position: absolute;
+    top: 171px;
+    left: 434px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .text-wrapper-8 {
+    position: absolute;
+    top: 2079px;
+    left: 541px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .text-wrapper-9 {
+    position: absolute;
+    top: 2217px;
+    left: 77px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .text-wrapper-10 {
+    position: absolute;
+    top: 2331px;
+    left: 77px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .text-wrapper-11 {
+    position: absolute;
+    top: 2445px;
+    left: 77px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .text-wrapper-12 {
+    position: absolute;
+    top: 2559px;
+    left: 77px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .line {
+    top: 2298px;
+    position: absolute;
+    width: 1160px;
+    height: 3px;
+    left: 77px;
+}
+
+.spotify-home .line-2 {
+    top: 2414px;
+    position: absolute;
+    width: 1160px;
+    height: 3px;
+    left: 77px;
+}
+
+.spotify-home .line-3 {
+    top: 2530px;
+    position: absolute;
+    width: 1160px;
+    height: 3px;
+    left: 77px;
+}
+
+.spotify-home .arrow-down {
+    top: 2224px;
+    position: absolute;
+    width: 56px;
+    height: 53px;
+    left: 1189px;
+    object-fit: cover;
+}
+
+.spotify-home .icons-arrow-down {
+    top: 2551px;
+    position: absolute;
+    width: 56px;
+    height: 53px;
+    left: 1189px;
+    object-fit: cover;
+}
+
+.spotify-home .arrow-down-2 {
+    top: 2454px;
+    position: absolute;
+    width: 56px;
+    height: 53px;
+    left: 1189px;
+    object-fit: cover;
+}
+
+.spotify-home .arrow-down-3 {
+    top: 2340px;
+    position: absolute;
+    width: 56px;
+    height: 53px;
+    left: 1189px;
+    object-fit: cover;
+}
+
+.spotify-home .overlap-3 {
+    position: absolute;
+    width: 1360px;
+    height: 391px;
+    top: 3448px;
+    left: 0;
+    background-color: #0f0e0e;
+}
+
+.spotify-home .text-wrapper-13 {
+    position: absolute;
+    top: 69px;
+    left: 199px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .icons-spotify {
+    width: 70px;
+    height: 70px;
+    top: 64px;
+    left: 97px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.spotify-home .COMPANY-COMMUNITIES {
+    position: absolute;
+    width: 904px;
+    top: 115px;
+    left: 407px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.spotify-home .text-wrapper-14 {
+    color: #d9d9d9;
+}
+
+.spotify-home .text-wrapper-15 {
+    color: #ffffff;
+}

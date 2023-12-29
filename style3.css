@@ -1,0 +1,119 @@
+.desktop {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    
+}
+
+.desktop .div {
+    background-image: url(1.kvlcg5.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 1360px;
+    height: 1024px;
+    position: relative;
+    margin-left: -60px;
+    margin-bottom: -10px;
+    margin-top: -10px;
+    margin-right: -50px;
+    padding-right: 10px;
+}
+
+.desktop .overlap-group {
+    position: absolute;
+    width: 437px;
+    height: 911px;
+    top: 49px;
+    left: 900px;
+    background-color: #000000;
+    border-radius: 20px;
+}
+
+.desktop .rectangle {
+    width: 437px;
+    height: 807px;
+    background-color: #000000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+}
+
+.desktop .element {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    top: 815px;
+    left: 194px;
+    object-fit: cover;
+}
+
+.desktop .overlap {
+    position: absolute;
+    width: 848px;
+    height: 911px;
+    top: 49px;
+    left: 38px;
+    background-color: #000000;
+    border-radius: 20px;
+}
+
+.desktop .overlap-2 {
+    position: absolute;
+    width: 777px;
+    height: 410px;
+    top: 426px;
+    left: 47px;
+}
+
+.desktop .text-wrapper {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+
+.desktop .frame {
+    position: absolute;
+    width: 777px;
+    height: 380px;
+    top: 30px;
+    left: 0;
+    overflow-y: scroll;
+}
+
+.desktop .tu-mera-koyi-na-hoke {
+    position: absolute;
+    width: 777px;
+    top: -1px;
+    left: 0;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.desktop .tu-mera-koyi-na-hoke:hover{
+    color: aqua;
+}
+
+.desktop .rectangle-2 {
+    width: 848px;
+    height: 312;
+    background-color: #d9d9d9;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+}
